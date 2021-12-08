@@ -570,7 +570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4285327a15e3a2947ab655f8fd2eed9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deviceIndex: 2
+  deviceIndex: 3
   screenMaterial: {fileID: 2100000, guid: 1cecbad0b0c4044a0940b5e4d64a0ee2, type: 2}
 --- !u!1 &1690863371
 GameObject:
